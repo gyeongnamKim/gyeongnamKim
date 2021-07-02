@@ -4,9 +4,9 @@
 <img src="https://img.shields.io/badge/R-7df6b6?style=flat-square&logo=R&logoColor=black"/></a>
 
 ## 예비 개발자의 공부 노트
- - Crawling
- - Data Analysis
- - Data Visualization
+ - [Crawling](https://github.com/gyeongnamKim/)
+ - [Data Analysis]()
+ - [Data Visualization]()
 
 <!--
 **gyeongnamKim/gyeongnamKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
