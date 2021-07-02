@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=db78ea&height=300&section=header&text=gyeongnam%20Kim&fontSize=90&fontColor=ffffff)
-![Mozilla Add-on](https://img.shields.io/amo/stars/python?color=71cffd&label=python&logo=python&logoColor=71cffd&style=plastic)
+
+
 
 <!--
 **gyeongnamKim/gyeongnamKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
