@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/R-7df6b6?style=flat-square&logo=R&logoColor=black"/></a>
 -->
 
- - [project 1](https://github.com/gyeongnamKim/data-visualization/tree/main/last_project)
+ - [Project ①](https://github.com/gyeongnamKim/data-visualization/tree/main/last_project)
  - [Machine learning ,Deep learning](https://github.com/gyeongnamKim/ML_DL)
  - [Crawling](https://github.com/gyeongnamKim/crawling)
  - [Data Analysis](https://github.com/gyeongnamKim/data-analysis)
